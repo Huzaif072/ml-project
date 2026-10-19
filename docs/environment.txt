@@ -1,0 +1,14 @@
+Record your installed versions here (Stage 2.7). In a PowerShell terminal run each command
+and paste the output under it.
+
+git --version
+(paste output)
+
+node --version
+(paste output)
+
+npm --version
+(paste output)
+
+py -3.12 --version
+(paste output)
